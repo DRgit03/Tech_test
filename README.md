@@ -3,7 +3,7 @@ After downloading all the project files from github repository.
 enter the command "npm install" to download the dependencies from the package.json file
 Once the dependencies are installed enter the command "npm start"  to run the app
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app)..
 
 ## Available Scripts
 
